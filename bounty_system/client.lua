@@ -17,7 +17,6 @@ AddEventHandler('bounty:remove', function(targetID)
     activeBounties[targetID] = nil
 end)
 
--- Draw markers for bounty targets
 Citizen.CreateThread(function()
     while true do
         Citizen.Wait(0)
