@@ -36,6 +36,6 @@ Take your FiveM experience to the next level with the ultimate Bounty System! Th
 
 # 🌐 Download Now on GitHub
 
-🔧 GitHub: Click here to download the Bounty Hunter System!
+🔧 GitHub: https://github.com/johnny-development/QBCORE-Bounty-Hunter-System
 
 🚀 Add this high-stakes feature to your FiveM server today and watch your players engage in thrilling bounty hunter gameplay!
